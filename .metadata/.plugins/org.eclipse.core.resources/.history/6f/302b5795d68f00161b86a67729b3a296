@@ -1,0 +1,5 @@
+package org.mycourseapp.domain;
+
+public class CourseID {
+
+}
